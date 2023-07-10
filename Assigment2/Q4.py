@@ -1,0 +1,6 @@
+#Q4. How do you write and execute a Python script from the command line?
+
+ANS:- INSTALL PYTHON IN YOUR MACHINE
+      OPEN COMMAND LINE
+      WRITE PYTHON ANS PRESS ENTER
+      PYTHON SHELL WILL GET ACTIVATED YOU CAN RUN PYTHON CODE NOW THERE
